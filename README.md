@@ -115,7 +115,11 @@ Training Set:
 ![282739253-ee2dde61-1636-43f1-9924-cd06af6aee99](https://github.com/Sindhuja9585/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860624/156fa1d5-b8ea-43fc-9466-d1a007f2c268)
 
 
+
+
+
 Testing Set:
+
 
 ![282739482-7f86c66a-08f2-49f9-a87e-4e269b2f9f2f](https://github.com/Sindhuja9585/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/122860624/21617e7e-cc4b-4380-9cc3-d96726676c95)
 
